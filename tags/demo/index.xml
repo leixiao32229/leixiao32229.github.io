@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Xiao Lei</title>
+    <link>~xl2625/tags/demo/</link>
+    <description>Recent content in Demo on Xiao Lei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="~xl2625/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A (control order)</title>
+      <link>~xl2625/project/1algorithm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>~xl2625/project/1algorithm/</guid>
+      <description>Optimization 1 &lt;br&gt; Optimziation 2</description>
+    </item>
+    
+  </channel>
+</rss>

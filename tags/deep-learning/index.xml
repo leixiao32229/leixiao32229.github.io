@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Xiao Lei</title>
+    <link>~xl2625/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Xiao Lei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="~xl2625/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B</title>
+      <link>~xl2625/project/2stochastic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>~xl2625/project/2stochastic/</guid>
+      <description>An example of using the in-built project page.</description>
+    </item>
+    
+    <item>
+      <title>C (control order)</title>
+      <link>~xl2625/project/3application/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>~xl2625/project/3application/</guid>
+      <description>An example of using the in-built project page.</description>
+    </item>
+    
+  </channel>
+</rss>

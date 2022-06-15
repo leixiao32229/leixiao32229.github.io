@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiao Lei</title>
+    <link>~xl2625/authors/admin/</link>
+    <description>Recent content on Xiao Lei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="~xl2625/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>~xl2625/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>~xl2625/authors/admin/</guid>
+      <description>Welcome to my site! I am a fourth-year PhD student of Operations Research at Columbia University. I&amp;rsquo;m fortunate to be advised by Prof. Adam Elmachtoub. I&amp;rsquo;m joining HKU Business School as an assistant professor in the fall. My research spans two major themes:
+ Operations management in emerging digital markets, with a current focus on video games. Promoting responsible operations in profit-driven businesses.  In the summer of 2020, I worked as a data scientist intern at Activision Blizzard.</description>
+    </item>
+    
+  </channel>
+</rss>
