@@ -11,7 +11,9 @@ library(RColorBrewer)
 
 #enter contry list
 country=c('China','Australia','Nepal','USA','Spain','France','Italy','Switzerland','Netherlands',
-          'Germany','Russia','Iceland','Bermuda','Cambodia','Thailand','Laos','Mexico','Singapore','For Future')
+          'Germany','Russia','Iceland','Bermuda','Cambodia','Thailand','Laos','Mexico',
+          'Singapore','Cuba','Canada','UK','For Future')
+
 
 #small countries to emphasize
 emphasis=c('Bermuda','Singapore')
@@ -24,8 +26,8 @@ usedcolor[1]=candidatecolor[1];
 usedcolor[4]=candidatecolor[14]
 usedcolor[11]=candidatecolor[15]
 usedcolor[17]=candidatecolor[6]
-usedcolor[18]=candidatecolor[7]
-candidatecolor=candidatecolor[-c(1,5,14,15,7)]
+usedcolor[20]=candidatecolor[10]
+candidatecolor=candidatecolor[-c(1,6,10,14,15)]
 usedcolor[length(country)]='midnightblue'
 for (i in 1:length(country))(
   if (is.na(usedcolor[i]))
@@ -33,11 +35,11 @@ for (i in 1:length(country))(
 )
 
 #plot the map
-countrylabel=sort(country)
-colorlabel=character()
-for (i in 1:length(country)){
-  colorlabel[i]=usedcolor[which(country==countrylabel[i])]
-}
+#countrylabel=c(sort(country[1:(length(country)-1)]),country[length(country)])
+colorlabel=usedcolor
+#for (i in 1:length(country)){
+#  colorlabel[i]=usedcolor[which(country==countrylabel[i])]
+#}
 data<- map_data("world")
 data[which(data['region']=='Taiwan'),5]='China'
 data['color']=rep('For Future',nrow(data))
