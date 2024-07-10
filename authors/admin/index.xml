@@ -1,24 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiao Lei</title>
     <link>https://leixiao32229.github.io/authors/admin/</link>
     <description>Recent content on Xiao Lei</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://leixiao32229.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://leixiao32229.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://leixiao32229.github.io/authors/admin/</guid>
-      <description>Welcome to my site! I am an Assistant Professor at HKU Business School. I earned my Ph.D. in Operations Research from Columbia University under the guidance of Prof. Adam Elmachtoub. My research is centered on designing enjoyable and sustainable experiences for consumer-driven businesses. Much of my recent work focuses on two major themes:
- Optimizing repeated and sequential user experiences in emerging digital platforms, particularly in the gaming industry, and utilizing gaming elements to enhance user experience within educational contexts.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://leixiao32229.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
