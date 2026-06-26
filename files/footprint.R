@@ -1,7 +1,3 @@
-# Copyright (c) 2019 by Xiao Lei. 
-#Permission to copy all or part of this work is granted, provided
-# that the copies are not made or distributed for resale, and that
-# the copyright notice and this notice are retained.
 ######################################
 library(ggplot2)
 library(ggmap)
@@ -12,7 +8,7 @@ library(RColorBrewer)
 #enter contry list
 country=c('China','Australia','Nepal','USA','Spain','France','Italy','Switzerland','Netherlands',
           'Germany','Russia','Iceland','Bermuda','Cambodia','Thailand','Laos','Mexico',
-          'Singapore','Cuba','Canada','UK','For Future')
+          'Singapore','Cuba','Canada','UK','Japan','For Future')
 
 
 #small countries to emphasize
