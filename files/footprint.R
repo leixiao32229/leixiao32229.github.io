@@ -8,7 +8,7 @@ library(RColorBrewer)
 #enter contry list
 country=c('China','Australia','Nepal','USA','Spain','France','Italy','Switzerland','Netherlands',
           'Germany','Russia','Iceland','Bermuda','Cambodia','Thailand','Laos','Mexico',
-          'Singapore','Cuba','Canada','UK','Japan','For Future')
+          'Singapore','Cuba','Canada','UK','Vietnam','Japan','For Future')
 
 
 #small countries to emphasize
